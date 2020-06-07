@@ -1,0 +1,10 @@
+D:\UWB\SerialSimu\SimulateUWBSerialData\SimulateUWBSerialData\bin\Debug\SimulateUWBSerialData.exe.config
+D:\UWB\SerialSimu\SimulateUWBSerialData\SimulateUWBSerialData\bin\Debug\SimulateUWBSerialData.exe
+D:\UWB\SerialSimu\SimulateUWBSerialData\SimulateUWBSerialData\bin\Debug\SimulateUWBSerialData.pdb
+D:\UWB\SerialSimu\SimulateUWBSerialData\SimulateUWBSerialData\obj\Debug\SimulateUWBSerialData.csprojAssemblyReference.cache
+D:\UWB\SerialSimu\SimulateUWBSerialData\SimulateUWBSerialData\obj\Debug\SimulateUWBSerialData.Properties.Resources.resources
+D:\UWB\SerialSimu\SimulateUWBSerialData\SimulateUWBSerialData\obj\Debug\SimulateUWBSerialData.csproj.GenerateResource.cache
+D:\UWB\SerialSimu\SimulateUWBSerialData\SimulateUWBSerialData\obj\Debug\SimulateUWBSerialData.csproj.CoreCompileInputs.cache
+D:\UWB\SerialSimu\SimulateUWBSerialData\SimulateUWBSerialData\obj\Debug\SimulateUWBSerialData.exe
+D:\UWB\SerialSimu\SimulateUWBSerialData\SimulateUWBSerialData\obj\Debug\SimulateUWBSerialData.pdb
+D:\UWB\SerialSimu\SimulateUWBSerialData\SimulateUWBSerialData\obj\Debug\SimulateUWBSerialData.Form1.resources
